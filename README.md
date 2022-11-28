@@ -1,8 +1,5 @@
 # Simple-Group-Level-Aggregations-in-Python-for-Machine-Learning
 
-# Hey you guys! I am uploading a repository of mine to demonstrate some statistical things we can do for Machine Learning/A.I. development
-# and production! 
-
 Step1: make sure you install the following package:
        
        pip3 install pandas
